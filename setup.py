@@ -26,7 +26,7 @@ setup(
     classifiers=[
         "Environment :: Web Environment",
         "Framework :: Plone",
-        "Framework :: Plone :: 4.3.4",
+        "Framework :: Plone :: 4.3",
         "Programming Language :: Python",
         "Programming Language :: Python :: 2.7",
     ],
@@ -43,12 +43,10 @@ setup(
     install_requires=[
         'plone.api',
         'setuptools',
-        'z3c.jbot',
     ],
     extras_require={
         'test': [
             'plone.app.testing',
-            'plone.app.contenttypes',
             'plone.app.robotframework[debug]',
         ],
     },

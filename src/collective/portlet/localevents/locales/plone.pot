@@ -15,7 +15,7 @@ msgstr ""
 "Language-Code: en\n"
 "Language-Name: English\n"
 "Preferred-Encodings: utf-8 latin1\n"
-"Domain: collective.portlet.localevents\n"
+"Domain: plone\n"
 
 #: ../events.py:25
 msgid "Context the portlet is assigned on"
@@ -29,11 +29,19 @@ msgstr ""
 msgid "Define the context in which to search for events"
 msgstr ""
 
+#: ../profiles/default/portlets.xml
+msgid "Local Events"
+msgstr ""
+
 #: ../events.py:39
 msgid "Search context"
 msgstr ""
 
 #: ../events.py:34
 msgid "Title"
+msgstr ""
+
+#: ../profiles/default/portlets.xml
+msgid "rendes a listing of upcoming events in the current context"
 msgstr ""
 
