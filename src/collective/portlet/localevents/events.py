@@ -68,7 +68,7 @@ class Renderer(BaseRenderer):
     _template = ViewPageTemplateFile('events.pt')
 
     def title(self):
-        return self.data.portletHeading or __(u"Upcoming Events")
+        return self.data.portletHeading or __(u'box_events', default=u"Upcoming Events")
 
     def prev_events_link(self):
         return None
