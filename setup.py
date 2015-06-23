@@ -33,7 +33,7 @@ setup(
     keywords='Python Plone',
     author='Harald Friessnegger',
     author_email='harald@webmeisterei.com',
-    url='http://pypi.python.org/pypi/collective.portlet.localevents',
+    url='https://github.com/webmeisterei/collective.portlet.localevents',
     license='GPL',
     packages=find_packages('src', exclude=['ez_setup']),
     namespace_packages=['collective', 'collective.portlet'],
