@@ -1,1 +1,1 @@
-- Harald Friessnegger, harald@webmeisterei.com
+- Harald Friessnegger, harald@webmeisterei.com (Author)
